@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tomdoro</string>
+    <string name="error_in_connection">Error in connection</string>
+</resources>

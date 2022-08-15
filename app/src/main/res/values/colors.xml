@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ECACAC</color>
+    <color name="colorPrimaryDark">#BE8D9E</color>
+    <color name="colorAccent">#A25A73</color>
+
+    <color name="transparent">#00000000</color>
+
+    <color name="grey_shimmer">#dddddd</color>
+
+    <color name="whiteColor">#ffffff</color>
+    <color name="redColor">#DF2037</color>
+    <color name="greenColor">#65C0B7</color>
+
+
+</resources>

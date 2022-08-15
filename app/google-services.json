@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "204969863584",
+    "firebase_url": "https://tomdoro-c538a.firebaseio.com",
+    "project_id": "tomdoro-c538a",
+    "storage_bucket": "tomdoro-c538a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204969863584:android:8f4f06ad4bb195b4c05cc5",
+        "android_client_info": {
+          "package_name": "com.notes.notesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204969863584-acsu28c12k5nqcl5kjnk5dr2lgldf06l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.notes.notesapp",
+            "certificate_hash": "5ba43dad0cb304442b16525ebfacfef198a948e9"
+          }
+        },
+        {
+          "client_id": "204969863584-rgsogtom7j7v1889pqh46sk8ka75c6id.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8_XlowfbWe-UvrOzuBdhTnzA606B4aSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204969863584-rgsogtom7j7v1889pqh46sk8ka75c6id.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
